@@ -24,4 +24,5 @@ assets/videos/C6-5.mp4
 assets/videos/C11-2.mp4 
 assets/videos/C6-1.mp4
 assets/videos/C8-2.mp4 
-assets/videos/C57.mp4 assets/videos/C4.mp4
+assets/videos/C57.mp4 
+assets/videos/C4.mp4
