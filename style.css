@@ -418,3 +418,26 @@ span {
     bottom: 10vh;
     right: 2vw;
 }
+
+.videoBlack {
+    top: 20vh;
+    right: 10vw;
+    width: 80vw;
+    /* height: 16vh; */
+    z-index: 50;
+}
+
+.videoFlex {
+    position: absolute;
+    flex-wrap: wrap;
+    top: 2vh;
+    width: 90vw;
+    padding: 0vh 5vw;
+    right: 5vw;
+    justify-content: center;
+    align-items: center;
+    z-index: 90;
+    overflow: auto;
+    height: 83vh;
+    top: 9vh
+}
